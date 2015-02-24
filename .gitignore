@@ -1,2 +1,3 @@
+# ignoring all sequence data
 *.fasta
 *.fastq
